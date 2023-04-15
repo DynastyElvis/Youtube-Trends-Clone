@@ -9,7 +9,7 @@ This app uses the YouTube API to get a list of the 10 most popular YouTube video
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Github][github-shield]][github-url]
 
-![Github Banner](https://github.com/DynastyElvis/React-Music-Player/blob/master/public/dashboard.png)
+![Github Banner]()
 
 <!-- my social media links -->
 
